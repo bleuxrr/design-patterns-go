@@ -8,4 +8,14 @@ use (
 	./objectPool
 	./prototype
 	./chainOfResponsibility
+	./command
+	./iterator
+	./mediator
+	./memento
+	./nullObject
+	./observer
+	./state
+	./strategy
+	./templateMethod
+	./visitor
 )
