@@ -18,4 +18,11 @@ use (
 	./strategy
 	./templateMethod
 	./visitor
+	./adapter
+	./bridge
+	./composite
+	./decorator
+	./facade
+	./flyweight
+	./proxy
 )
