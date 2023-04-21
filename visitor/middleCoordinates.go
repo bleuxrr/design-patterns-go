@@ -3,7 +3,8 @@ package main
 import "fmt"
 
 type middleCoordinates struct {
-	area int
+	x int
+	y int
 }
 
 func (m *middleCoordinates) visitForSquare(s *square) {
