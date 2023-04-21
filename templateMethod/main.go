@@ -8,7 +8,7 @@ func main() {
 		iOtp: smsOTP,
 	}
 	o.genAndSendOTP(4)
-	fmt.Println("")
+	fmt.Println()
 	emailOTP := &email{}
 	o = otp{
 		iOtp: emailOTP,
