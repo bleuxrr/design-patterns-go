@@ -25,4 +25,5 @@ use (
 	./facade
 	./flyweight
 	./proxy
+	./functionalOptions
 )
